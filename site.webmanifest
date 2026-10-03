@@ -1,0 +1,9 @@
+{
+  "name": "Pink Beauty Clinic and Salon",
+  "short_name": "Pink Beauty",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff8fc",
+  "theme_color": "#d68ab4",
+  "icons": []
+}

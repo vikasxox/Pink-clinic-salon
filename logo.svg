@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 70" role="img" aria-labelledby="title desc">
+<title id="title">Pink Beauty Clinic and Salon</title>
+<desc id="desc">Pink wordmark with a small crown motif.</desc>
+<g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M27 14l8 10 9-16 10 16 9-10 2 20H25z" fill="currentColor" stroke="none"/>
+  <path d="M23 37h45" stroke-width="3"/>
+</g>
+<text x="81" y="40" font-family="Georgia,serif" font-size="31" font-weight="700" letter-spacing="5" fill="currentColor">PINK</text>
+<text x="83" y="57" font-family="Arial,sans-serif" font-size="8.5" font-weight="600" letter-spacing="2.3" fill="currentColor">BEAUTY CLINIC &amp; SALON</text>
+</svg>

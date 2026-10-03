@@ -1,0 +1,46 @@
+PINK BEAUTY CLINIC & SALON — ASSET MAP
+
+Gallery / media:
+47338.jpg  ->  images/gallery/01-treatment-room.jpg
+47339.jpg  ->  images/gallery/02-treatment-suite.jpg
+47340.jpg  ->  images/gallery/03-reception-pink-logo.jpg
+47341.jpg  ->  images/gallery/04-nail-studio.jpg
+47342.jpg  ->  images/gallery/05-entrance-pink.jpg
+47343.jpg  ->  images/gallery/06-lash-campaign.jpg
+47344.jpg  ->  images/gallery/07-esatto-treatment-room.jpg
+47345.jpg  ->  images/gallery/08-reception-chandelier.jpg
+47346.jpg  ->  images/gallery/09-pink-corridor.jpg
+47347.jpg  ->  images/gallery/10-skincare-product-bar.jpg
+47348.jpg  ->  images/gallery/11-rhinestone-nail-art.jpg
+47349.jpg  ->  images/gallery/12-exterior-signage.jpg
+47350.jpg  ->  images/gallery/13-lounge.jpg
+47351.jpg  ->  images/gallery/14-floral-reception.jpg
+47352.jpg  ->  images/gallery/15-pink-manicure.jpg
+
+Guest review screenshots:
+47353.jpg  ->  images/reviews/review-01-kshitij-sajwan.jpg
+47356.jpg  ->  images/reviews/review-02-jagruti-shekhawat.jpg
+47359.jpg  ->  images/reviews/review-03-kulsum-shaikh.jpg
+47360.jpg  ->  images/reviews/review-04-sneha-john.jpg
+47361.jpg  ->  images/reviews/review-05-mukesh-mordani.jpg
+47362.jpg  ->  images/reviews/review-06-devina-malhotra.jpg
+47363.jpg  ->  images/reviews/review-07-ananya-chouksey.jpg
+47364.jpg  ->  images/reviews/review-08-sharon-satule.jpg
+47365.jpg  ->  images/reviews/review-09-shweta-dhanwani.jpg
+47366.jpg  ->  images/reviews/review-10-ankita-jagtap.jpg
+47367.jpg  ->  images/reviews/review-11-vinita-dsouza.jpg
+47368.jpg  ->  images/reviews/review-12-diana-lobo.jpg
+47369.jpg  ->  images/reviews/review-13-krupali-mota.jpg
+47370.jpg  ->  images/reviews/review-14-harshita-punjabi.jpg
+47371.jpg  ->  images/reviews/review-15-divij-ahuja.jpg
+47372.jpg  ->  images/reviews/review-16-tamsyn-lonsdale-smith.jpg
+47373.jpg  ->  images/reviews/review-17-prahavi.jpg
+47374.jpg  ->  images/reviews/review-18-nehum-rawat.jpg
+47375.jpg  ->  images/reviews/review-19-joy-puski-das.jpg
+47376.jpg  ->  images/reviews/review-20-udan-shri-goyari.jpg
+47377.jpg  ->  images/reviews/review-21-ummulwara-khan.jpg
+47378.jpg  ->  images/reviews/review-22-sharon-greve.jpg
+47379.jpg  ->  images/reviews/review-23-arti-jadhav.jpg
+47380.jpg  ->  images/reviews/review-24-punjab-kaur.jpg
+47381.jpg  ->  images/reviews/review-25-krupali-mota-2.jpg
+47382.jpg  ->  images/reviews/review-26-moksh.jpg
